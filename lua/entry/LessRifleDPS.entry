@@ -1,0 +1,4 @@
+modEntry = {
+    FileHooks = "lua/LessRifleDPS/FileHooks79.lua",
+    Priority = 91
+}
